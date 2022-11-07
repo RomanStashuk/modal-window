@@ -1,0 +1,22 @@
+{
+  "name": "modal-window",
+  "version": "1.0.0",
+  "description": "Simple modal window",
+  "private": true,
+  "author": "RomanStashuk <romanstashuk1@gmail.com> (https://github.com/RomanStashuk)",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanStashuk/modal-window.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RomanStashuk/modal-window/issues"
+  },
+  "homepage": "https://github.com/RomanStashuk/modal-window#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
