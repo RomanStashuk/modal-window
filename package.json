@@ -14,7 +14,7 @@
     "eslint-fix": "npm run eslint --fix",
     "prettify": "prettier --write \"src/**/*.js\"",
     "test": "npm run eslint && npm run stylelint",
-    "deploy": "npm run build && gh-pages -d build"
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "repository": {
     "type": "git",
